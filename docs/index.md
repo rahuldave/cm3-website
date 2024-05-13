@@ -14,11 +14,12 @@ Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to *it
 
 This is another para.
 
-In this one we show some lists. just start the lista on the next line after hitting one return:
+In this one we show some lists. just start the lists on the next line after hitting one return:
 - an item
 - another item
 - a third item
 - a fourth item
+- hello world! Come see my cow! Mooooo.
 
 ## Economics
 
@@ -28,7 +29,12 @@ In this new para we create a numbered list using numbers.
 3. hdjfhjdhfjdhfdjfhd
 4. hrkklo
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [GooglePlonk](https://www.google.com) (see how I made this link) about it to learn more.
+1. The Wealth of Nations
+2. Macroeconomics
+3. Microeconomics
+
+   
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [GooglePlonk](https://www.google.com) (see how I made this link) about it to learn more. And you can go to [ChatGPT](https://chat.openai.com).
 
 You can write code by using triple-ticks:
 
